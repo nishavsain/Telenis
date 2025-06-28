@@ -2,7 +2,7 @@
 
 A terminal-based Python script that lets you automatically send messages to **all writable Telegram groups you're part of** — with smart filtering, time intervals, and rotating ASCII branding.
 
-> **Made with ❤️ by **[**Nishav**](https://github.com/nishavsain)
+> Made with ❤️ by [**Nishav**](https://github.com/nishavsain)
 
 ---
 
