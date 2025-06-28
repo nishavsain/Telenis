@@ -63,7 +63,7 @@ A terminal-based Python script that lets you automatically send messages to **al
 | .` | | | \__ \ | __ | / _ \   \ V /    
 |_|\_||___||___/ |_||_|/_/ \_\   \_/     
 
-       Made with hollow love ❤️ by Nishav
+       Made with ❤️ by Nishav
 ```
 
 ---
